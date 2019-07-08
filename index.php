@@ -6,7 +6,6 @@
 
 
 
-<h1>khaid</h1>
 
 <!-- FOOTER -->
 <?php include "./includes/footer.php" ?>
