@@ -68,12 +68,12 @@
 <!-- footer state end here -->
 
 <!-- footer contact Info start here -->
-<div class="container-fluid mt-4 mb-4">
+<div class="container-fluid pt-4 pb-4" style="background-color: #ff7f00;">
 	<div class="row m-3 pt-3 pb-3">
 		<div class="col-lg-5">
 
 			<h2 class="mb-4" style="font-weight: bolder;">US Consultants</h2>
-			<p style="font-size: 16px;" class="text-muted">Our organization network includes offices spread across 3 major Indian cities and an international presence in Dubai & Mexico</p>
+			<p style="font-size: 16px;" class="text-white">Our organization network includes offices spread across 3 major Indian cities and an international presence in Dubai & Mexico</p>
 		</div>
 		<div class="col-lg-1"></div>
 		<div class="col-lg-3">
